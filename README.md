@@ -1,9 +1,11 @@
 Hi, this is a dark mode skin that matches the Win10 Wigets to replace its broken spotify player
 
+It also adds labels to what each thing is for my old butt. :3
 
 
 
-![image](https://github.com/MondoCat/WebNowPlaying-Rainmeter-Win10-Widgets-Dark-Skin/assets/123789500/b5d979d3-ea7e-4167-933e-8f82e6050291)
+![image](https://github.com/MondoCat/WebNowPlaying-Rainmeter-Win10-Widgets-Dark-Skin/assets/123789500/300fe7ae-93d8-437b-9c9c-9db9318551c5)
+
 
 
 ----------
