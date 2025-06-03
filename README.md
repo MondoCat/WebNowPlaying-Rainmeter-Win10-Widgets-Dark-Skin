@@ -2,6 +2,12 @@ Hi, this is a dark mode skin that matches the Win10 Wigets to replace its broken
 
 It also adds labels to what each thing is for my old butt. :3
 
+Step 1: Download ExampleSkin/Example.ini
+Step 2: Replace your Example.ini with this one.
+Step 3: Reload
+Step 4: ???
+Step 5: Profit
+
 
 
 ![image](https://github.com/MondoCat/WebNowPlaying-Rainmeter-Win10-Widgets-Dark-Skin/assets/123789500/ce44c394-10cb-4c59-8c77-44b8ce272ff5)
