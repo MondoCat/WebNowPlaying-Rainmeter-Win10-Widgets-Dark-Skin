@@ -3,7 +3,7 @@ Hi, this is a dark mode skin that matches the Win10 Wigets to replace its broken
 It also adds labels to what each thing is for my old butt. :3
 
 * Step 1: Download ExampleSkin/Example.ini
-* Step 2: Replace your Example.ini with this one.
+* Step 2: Replace your Example.ini with this one. (You can Right click the player > Edit Skin > Paste that file here > Save)
 * Step 3: Reload
 * Step 4: ???
 * Step 5: Profit
